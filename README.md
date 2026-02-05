@@ -2,17 +2,17 @@ CSHARPEMV1 / Générateur de Personnages RPG
 
 
 Fonctionnement :
-1. Écran d'accueil : Le joueur entre son pseudo pour commencer l'aventure.
+- Écran d'accueil : Le joueur entre son pseudo pour commencer l'aventure.
 
-2. Choix de la race : Parmi 6 races disponibles : (Harpie, Ogre, Gobelin, Elfe, Vampire, Humain), chaque race possède ses propres statistiques de base (Force, Défense, Vitesse, Points de Vie, Magie, Régénération) et une compétence spéciale unique.
+- Choix de la race : Parmi 6 races disponibles : (Harpie, Ogre, Gobelin, Elfe, Vampire, Humain), chaque race possède ses propres statistiques de base (Force, Défense, Vitesse, Points de Vie, Magie, Régénération) et une compétence spéciale unique.
 
-3. Choix de la classe : Parmi 11 classes disponibles (Assassin, Voleur, Guerrier, Mage, Archer, Tank, Soutien, Moine, Nécromancien, Ninja, Voltigeur), chaque classe apporte des bonus de statistiques spécifiques. Attention : certaines classes sont bloquées selon la race choisie pour équilibrer le jeu.
+- Choix de la classe : Parmi 11 classes disponibles (Assassin, Voleur, Guerrier, Mage, Archer, Tank, Soutien, Moine, Nécromancien, Ninja, Voltigeur), chaque classe apporte des bonus de statistiques spécifiques. Attention : certaines classes sont bloquées selon la race choisie pour équilibrer le jeu.
 
-4. Sélection des objets : Deux objets sont choisis aléatoirement et chaque objet possède une rareté aléatoire (Commun, Rare, Épique, Légendaire) qui multiplie ses statistiques de base. Plus un objet est rare, plus ses bonus sont puissants.
+- Sélection des objets : Deux objets sont choisis aléatoirement et chaque objet possède une rareté aléatoire (Commun, Rare, Épique, Légendaire) qui multiplie ses statistiques de base. Plus un objet est rare, plus ses bonus sont puissants.
 
-3. Lancer de dé : Le joueur lance un dé, il obtient un résultat puis choisi ce qu'il veut améliorer (Force, Vitesse, etc) ,pour ensuite aller à l'étape suivante.
+- Lancer de dé : Le joueur lance un dé, il obtient un résultat puis choisi ce qu'il veut améliorer (Force, Vitesse, etc) ,pour ensuite aller à l'étape suivante.
 
-6. Récapitulatif final : Un écran affiche toutes les informations du personnage créé : le pseudo, la race avec ses stats et sa compétence, la classe avec ses bonus, et les objets équipés avec leur rareté et leurs statistiques. Le joueur peut soit créer un nouveau personnage, soit terminer.
+- Récapitulatif final : Un écran affiche toutes les informations du personnage créé : le pseudo, la race avec ses stats et sa compétence, la classe avec ses bonus, et les objets équipés avec leur rareté et leurs statistiques. Le joueur peut soit créer un nouveau personnage, soit terminer.
 
 Système de statistiques :
 Chaque personnage possède 6 statistiques principales :
