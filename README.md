@@ -10,7 +10,7 @@ Fonctionnement :
 
 - Sélection des objets : Deux objets sont choisis aléatoirement et chaque objet possède une rareté aléatoire (Commun, Rare, Épique, Légendaire) qui multiplie ses statistiques de base. Plus un objet est rare, plus ses bonus sont puissants.
 
-- Lancer de dé : Le joueur lance un dé, il obtient un résultat puis choisi ce qu'il veut améliorer (Force, Vitesse, etc) ,pour ensuite aller à l'étape suivante.
+- Lancer de dée : Le joueur lance un dé, il obtient un résultat puis choisi ce qu'il veut améliorer (Force, Vitesse, etc) ,pour ensuite aller à l'étape suivante.
 
 - Récapitulatif final : Un écran affiche toutes les informations du personnage créé : le pseudo, la race avec ses stats et sa compétence, la classe avec ses bonus, et les objets équipés avec leur rareté et leurs statistiques. Le joueur peut soit créer un nouveau personnage, soit terminer.
 
